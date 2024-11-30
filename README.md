@@ -1,24 +1,26 @@
 ## _Whoami_
 _**Assalamu Alaikum, <br>
-I am Md. Monjurul Ahshan Rahat. Family, Friends call me Rahat, in working sector i known as Cre3py Blaze. I do Bug Bounty Hunting and occasionally I participate in CTF / Cyber drill competitions.**_
+I am Md. Monjurul Ahshan Rahat, commonly known as Rahat among my family and friends. In the professional world, I go by Cre3py Blaze. I am a passionate Bug Bounty Hunter and an active participant in CTF (Capture The Flag) and Cyber Drill Competitions.**_
 
 
 ## _Hobbies_
-* _**🎖 Gaming.**_
-* _**🎖 Coding.**_
-* _**🎖 Ethical Hacking.**_
-* _**🎖 Explore The Internet.**_
+* _**🎮 Gaming:** From casual gaming to competitive sessions, gaming is my escape and inspiration._
+* _**💻 Coding:** I enjoy solving complex problems and creating innovative solutions through programming._
+* _**🛡 Ethical Hacking:** I thrive on uncovering vulnerabilities and making the internet a safer place._
+* _**🌐 Exploring the Internet:** The boundless world of information fuels my curiosity every day._
   
 
 ## _Personal Information_
-_**I am a student of Computer Engineering. I grew up in a Muslim family. I started my career when I was in 8th grade. I've loved technology and internet things since I was a kid. So I started my career with technology and internet as a Cyber Security Researcher. I have been doing Bug Bounty Hunting / Cyber Security Research for three years. I want to be a Cyber Security expert in the future.**_
+_**I am currently pursuing a degree in Computer Engineering and come from a devout Muslim family. My love for technology began in childhood, and I took my first career steps while still in 8th grade. What started as a fascination has grown into a full-fledged career in Cybersecurity.**_
+
+_**Over the past three years, I’ve been actively engaged as a Bug Bounty Hunter and Cybersecurity Researcher, identifying vulnerabilities and protecting systems. My journey so far has been both challenging and rewarding, and I am continually striving to hone my skills.**_
 
 
 ## _Learning_
-* _**📚 CTF Player.**_
-* _**📚 Bug Bounty.**_
-* _**📚 Programming.**_
-* _**📚 Computer Science.**_
+* _**📚 CTF Player:** Enhancing my skills in problem-solving, cryptography, and system security through real-world challenges._
+* _**📚 Bug Bounty:** Continuously refining my ability to discover and report vulnerabilities in web and mobile applications._
+* _**📚 Programming:** Diving deeper into various programming languages to build secure and efficient systems._
+* _**📚 Computer Science:**Expanding my knowledge of algorithms, data structures, and foundational concepts._
 
 
 ### Resources from i learn
