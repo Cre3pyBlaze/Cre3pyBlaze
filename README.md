@@ -11,9 +11,9 @@ I am **Md. Monjurul Ahshan Rahat**, commonly known as Rahat among my family and 
   
 
 ## _Personal Information_
-_I am currently pursuing a degree in **Computer Engineering** and come from a devout Muslim family. My love for technology began in childhood, and I took my first career steps while still in 8th grade. What started as a fascination has grown into a full-fledged career in Cybersecurity._
+_I am currently pursuing a degree in **Computer Engineering** and come from a devout Muslim family. My love for technology began in childhood, and I took my first career steps while still in 8th grade. What started as a fascination has grown into a full-fledged career in **Cybersecurity**._
 
-_Over the past three years, I’ve been actively engaged as a Bug Bounty Hunter and Cybersecurity Researcher, identifying vulnerabilities and protecting systems. My journey so far has been both challenging and rewarding, and I am continually striving to hone my skills._
+_Over the past three years, I’ve been actively engaged as a **Bug Bounty Hunter** and **Cybersecurity Researcher**, identifying vulnerabilities and protecting systems. My journey so far has been both challenging and rewarding, and I am continually striving to hone my skills._
 
 
 ## _Learning_
